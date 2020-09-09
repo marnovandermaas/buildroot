@@ -1,3 +1,5 @@
+# See COPYING file for the license details of GPLv2
+# Copyright 2020 Marno van der Maas
 BR2_riscv64=y
 BR2_TOOLCHAIN_EXTERNAL=y
 BR2_TOOLCHAIN_EXTERNAL_PATH="$(RISCV)"
